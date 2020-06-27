@@ -1,0 +1,33 @@
+From,To,Distance
+Castle Black,Winterfell,680
+Castle Black,White Harbor,1105
+Winterfell,White Harbor,490
+Winterfell,Moat Cailin,590
+White Harbor,Moat Cailin,180
+Moat Cailin,The Twins,530
+Moat Cailin,The Trident,770
+Moat Cailin,King's Landing,1420
+The Twins,Riverrun,495
+The Twins,The Trident,420
+Riverrun,The Trident,255
+Riverrun,Harrenhal,285
+Riverrun,King's Landing,750
+Riverrun,Casterly Rock,590
+The Trident,Harrenhal,195
+The Trident,The Eyrie,545
+Harrenhal,King's Landing,380
+The Eyrie,King's Landing,990
+Casterly Rock,King's Landing,1050
+Casterly Rock,Highgarden,730
+King's Landing,Highgarden,915
+King's Landing,Summerhall,380
+King's Landing,Storm's End,380
+Highgarden,Oldtown,390
+Highgarden,Horn Hill,195
+Highgarden,Summerhall,640
+Summerhall,Horn Hill,500
+Summerhall,Storm's End,350
+Summerhall,Nightsong,425
+Oldtown,Horn Hill,320
+Horn Hill,Nightsong,225
+Nightsong,Sunspear,1170

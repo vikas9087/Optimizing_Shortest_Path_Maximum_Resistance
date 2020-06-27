@@ -1,0 +1,64 @@
+Castle Black,Winterfell,680
+Castle Black,White Harbor,1105
+Winterfell,White Harbor,490
+Winterfell,Moat Cailin,590
+White Harbor,Moat Cailin,180
+Moat Cailin,The Twins,530
+Moat Cailin,The Trident,770
+Moat Cailin,King's Landing,1420
+The Twins,Riverrun,495
+The Twins,The Trident,420
+Riverrun,The Trident,255
+Riverrun,Harrenhal,285
+Riverrun,King's Landing,750
+Riverrun,Casterly Rock,590
+The Trident,Harrenhal,195
+The Trident,The Eyrie,545
+Harrenhal,King's Landing,380
+The Eyrie,King's Landing,990
+Casterly Rock,King's Landing,1050
+Casterly Rock,Highgarden,730
+King's Landing,Highgarden,915
+King's Landing,Summerhall,380
+King's Landing,Storm's End,380
+Highgarden,Oldtown,390
+Highgarden,Horn Hill,195
+Highgarden,Summerhall,640
+Summerhall,Horn Hill,500
+Summerhall,Storm's End,350
+Summerhall,Nightsong,425
+Oldtown,Horn Hill,320
+Horn Hill,Nightsong,225
+Nightsong,Sunspear,1170
+Winterfell,Castle Black,680
+White Harbor,Castle Black,1105
+White Harbor,Winterfell,490
+Moat Cailin,Winterfell,590
+Moat Cailin,White Harbor,180
+The Twins,Moat Cailin,530
+The Trident,Moat Cailin,770
+King's Landing,Moat Cailin,1420
+Riverrun,The Twins,495
+The Trident,The Twins,420
+The Trident,Riverrun,255
+Harrenhal,Riverrun,285
+King's Landing,Riverrun,750
+Casterly Rock,Riverrun,590
+Harrenhal,The Trident,195
+The Eyrie,The Trident,545
+King's Landing,Harrenhal,380
+King's Landing,The Eyrie,990
+King's Landing,Casterly Rock,1050
+Highgarden,Casterly Rock,730
+Highgarden,King's Landing,915
+Summerhall,King's Landing,380
+Storm's End,King's Landing,380
+Oldtown,Highgarden,390
+Horn Hill,Highgarden,195
+Summerhall,Highgarden,640
+Horn Hill,Summerhall,500
+Storm's End,Summerhall,350
+Nightsong,Summerhall,425
+Horn Hill,Oldtown,320
+Nightsong,Horn Hill,225
+Sunspear,Nightsong,1170
